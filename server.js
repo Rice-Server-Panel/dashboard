@@ -21,6 +21,7 @@ console.log('#        #    ###      ###     ##########')
 //config
 const webconfig = require('./config/website.json')
 const database = require('./config/database.json')
+const dsconfig = require('./config/discord.json')
 
 //Mongoose
 const mongoose = require('mongoose');
@@ -53,4 +54,7 @@ mongoose.connect(database.url, {
 }).then(() => {
     console.log("Připojeno k databázi")
 })
+
+
+
 

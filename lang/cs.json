@@ -1,0 +1,15 @@
+{
+    "general": {
+        "user": "Jméno",
+        "email": "Email",
+        "password": "Heslo"
+    },
+    "login": {
+        "login": "Přihlásit se",
+        "Xacount": "Nemáš učet? Přihlaš se zde!"
+    },
+    "register": {
+        "register": "Registrovat se",
+        "aacount": "Máš učet? Přihlaš se zde!"
+    }
+}
