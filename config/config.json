@@ -1,0 +1,7 @@
+{
+    "port": 800,
+    "url": "mongodb+srv://bot123:bot321@cluster0.f8rno15.mongodb.net/?retryWrites=true&w=majority",
+    "id": "755434683910848585",
+    "secret": "VSfWxDi38tTWtxOcE6_Xnbtd96wiWEbX",
+    "domain": "localhost:800"
+}
